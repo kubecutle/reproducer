@@ -6,7 +6,7 @@
 	<artifactId>reproducer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<whatsapp4j.version>38.0.500</whatsapp4j.version>
+		<whatsapp4j.version>3.4.4</whatsapp4j.version>
 		<compiler-plugin.version>3.11.0</compiler-plugin.version>
 		<maven.compiler.release>17</maven.compiler.release>
 	</properties>
