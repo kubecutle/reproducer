@@ -9,6 +9,7 @@
 		<whatsapp4j.version>3.4.4</whatsapp4j.version>
 		<compiler-plugin.version>3.11.0</compiler-plugin.version>
 		<maven.compiler.release>17</maven.compiler.release>
+		<java.version>17</java.version>
 	</properties>
 
 	<dependencies>
