@@ -10,7 +10,7 @@ public class Agent {
   public static void main(String []args) throws Exception {   
     System.out.println("Starting ...");
     Whatsapp whatsapp=Whatsapp.webBuilder()
-    .newConnection()
+    .lastConnection()
     .historyLength(WebHistoryLength.ZERO)
     .build();
     whatsapp.addNewMessageListener(info -> {
